@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class Solution {
+public class LongestBalancedString {
 
     public static int longestBalancedSubstring(String s) {
         int maxLen = 0;
